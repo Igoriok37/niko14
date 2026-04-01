@@ -34,7 +34,7 @@ body.no-scroll {
   width: 100%;
 }
 
-body {
+body.home-page {
   background-color: #fff; /* Белый фон при загрузке */
   opacity: 0;
   transition: opacity 1s ease-in-out; /* Плавное проявление */
