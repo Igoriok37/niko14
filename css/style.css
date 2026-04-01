@@ -719,7 +719,7 @@ video {
   display: flex;
   align-items: center;
   white-space: nowrap;
-  -webkit-text-stroke: 3px rgba(255, 255, 255, 0.8);
+  -webkit-text-stroke: 6px rgba(255, 255, 255, 0.8);
   letter-spacing: 12px;
   transition: all 0.8s ease;
 }
